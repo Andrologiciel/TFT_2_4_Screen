@@ -9,10 +9,10 @@ Spfd5408 controller with built in video RAM buffer
 Uses digital pins 5-13 and analog 0-3
 5V compatible, use with 3.3V or 5V logic
 Size: 71 x 52 x 7mm
-############################
+####  Setup ####
 Download and unzip the libraries :
 TFTLCD : TFT Utilities,
-TOUCH : Touch Screen Utilities,
+TOUCH : Touch eaznenazbenazbe Utilities,
 GFX : Graphics functions
 
 Please delete the old libraries if necessary (Adafruit_GFX, SWTFT,…). Then, copy the downloaded libraries in Arduino libraries folder
