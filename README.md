@@ -24,12 +24,6 @@ TOUCH : Use of the Touch Screen
 #### TOUCH Parameters ####
 Use the TouchScreen library
 Please define the sensitivity : use a multimeter between X+ (Pin 6) & X- (pin A2)
-And calibrate the screen (example) :
-#define CalX 1
-#define CalY -2
-#define Sens 750
-#define MINPRESSURE 10
-#define MAXPRESSURE 1000
-See the TouchPaint_2_4 sample sketch
+And calibrate the screen (See the TouchPaint_2_4 sample sketch)
 ##########################
 
